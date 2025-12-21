@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/luokairo">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Jingyi_Liu;Cloud-Native+%7C+LLM+Infra+%7C+Backend;Go+%7C+Python+%7C+Kubernetes+%7C+KubeEdge+%7C+vLLM+%7C+Prometheus" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Jingyi+Liu;Visual+Generation+%7C+Multi-modal+learning;" alt="Typing SVG" />
   </a>
 </p>
 
