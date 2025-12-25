@@ -15,14 +15,6 @@
 <h1 align="center">👋 Hi, I'm Jingyi Liu</h1>
 
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luokairo&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
-</p>
-
----
-
 ## 📫 Contact
 
 - Email: **luokairo@gmail.com**
