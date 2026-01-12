@@ -20,9 +20,9 @@
   <img src="https://github-readme-stats-tawny.vercel.app/api?username=luokairo&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=luokairo&theme=onedark&no-frame=true&row=1&column=5" alt="trophy" />
-</p>
+</p> -->
 
 ---
 
